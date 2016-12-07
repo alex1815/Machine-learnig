@@ -23,7 +23,6 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="gettingDataFromFile.py" />
-    <Compile Include="MachineLearningDontStrave.py" />
     <Compile Include="MLDontStarve.py" />
     <Compile Include="transition.py" />
   </ItemGroup>
