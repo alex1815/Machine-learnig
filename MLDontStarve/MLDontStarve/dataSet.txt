@@ -1,0 +1,1 @@
+[{"food": 100, "temperature": 36.6, "power": 100}, {"vf": 2, "vt": 0.05, "vp": 8}]
